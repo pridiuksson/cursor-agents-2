@@ -1,17 +1,20 @@
-# Cursor Agents
+![QR Code](link-to-your-qr-code-image.png)
 
-![QR Code](path/to/qrcode.png)
+# Agents Overview
 
-## Agent 1: Description
-Detailed description of agent 1.
+## Monorepo Agent
+This agent helps manage multiple projects within a single repository, improving collaboration and efficiency. 
+[Learn more](link-to-monorepo-agent-docs)
 
-## Agent 2: Description
-Detailed description of agent 2.
+## Documentarian
+This agent is responsible for generating and maintaining project documentation automatically. 
+[Learn more](link-to-documentarian-docs)
 
-## Agent 3: Description
-Detailed description of agent 3.
+## Changelog Creator
+This agent automates the process of generating changelogs, ensuring all changes are well-documented. 
+[Learn more](link-to-changelog-creator-docs)
 
 ## Prompt
 ```
-Your prompt text here.
+Make an own well-informed plan by following agent-rule-generation-prompt.md step by step and using monorepo-agent-presentation.md as a reference and a source of inspiration. Be sure to scrutinize your decisions to be aware of the structure of this particular project and ensure the resulting roles, protocols and instructions are tailored to your way of working as an AI agent working in this project.
 ```
