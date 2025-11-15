@@ -1,20 +1,19 @@
-![QR Code](link-to-your-qr-code-image.png)
+![QR Code](qr_agents2_gh.png)
 
-# Agents Overview
+# Cursor Agents - presentation for AI Summit Vilnius
 
-## Monorepo Agent
-This agent helps manage multiple projects within a single repository, improving collaboration and efficiency. 
-[Learn more](link-to-monorepo-agent-docs)
+### [Monorepo Agent](monorepo-agent-presentation.md)
 
-## Documentarian
-This agent is responsible for generating and maintaining project documentation automatically. 
-[Learn more](link-to-documentarian-docs)
+A pattern-aware development assistant for end-to-end development within a monorepo environment. The Monorepo Agent understands the monorepo's architecture, enforces security boundaries, and maintains architectural discipline.
 
-## Changelog Creator
-This agent automates the process of generating changelogs, ensuring all changes are well-documented. 
-[Learn more](link-to-changelog-creator-docs)
+### [Documentarian](documentarian-presentation.md)
 
-## Prompt
-```
-Make an own well-informed plan by following agent-rule-generation-prompt.md step by step and using monorepo-agent-presentation.md as a reference and a source of inspiration. Be sure to scrutinize your decisions to be aware of the structure of this particular project and ensure the resulting roles, protocols and instructions are tailored to your way of working as an AI agent working in this project.
-```
+An AI agent role for QA.tech, which specializes in creating and maintaining user-facing documentation.
+
+### [Changelog Creator](webflow-presentation.md)
+A specialized AI agent role designed to create user-facing changelog entries for the qa.tech website using Webflow CMS. 
+
+## Prompt for your Cursor:
+``
+Make an own well-informed plan by following agent-rule-generation-prompt.md step by step and using monorepo-agent-presentation.md as a reference and a source of inspiration. Be sure to scrutinize your decisions to be aware of the structure of this particular project and ensure the resulting roles, protocolos and instructions are tailored to your way of working as an AI agent working in this project. 
+``
