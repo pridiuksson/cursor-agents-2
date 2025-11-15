@@ -1,6 +1,16 @@
+# Building Agentic Workflows in Cursor IDE - presentation for AI Summit Europe
+Everything I am showing you today is available in this Github repo.
+
 ![QR Code](qr_agents2_gh.png)
 
-# Cursor Agents - presentation for AI Summit Vilnius
+### My name is Olle Pridiuksson - Solutions Engineer at agentic AI startup QA.tech
+Talk to me if you're interested in agentic AI adoption and Quality Assurance strategy for your business.
+
+- LinkedIn: <https://www.linkedin.com/in/pridiuksson>  
+- Instagram: <https://www.instagram.com/pridiuksson>  
+- Twitter: <https://x.com/pridiuksson>  
+
+# Cursor Agents 
 
 ### [Monorepo Agent](monorepo-agent-presentation.md)
 
@@ -17,3 +27,10 @@ A specialized AI agent role designed to create user-facing changelog entries for
 ``
 Make an own well-informed plan by following agent-rule-generation-prompt.md step by step and using monorepo-agent-presentation.md as a reference and a source of inspiration. Be sure to scrutinize your decisions to be aware of the structure of this particular project and ensure the resulting roles, protocolos and instructions are tailored to your way of working as an AI agent working in this project. 
 ``
+
+## Further Reading:
+* https://github.com/elder-plinius/CL4R1T4S
+* https://github.com/humanlayer/12-factor-agents
+* https://github.com/contains-studio/agents
+* https://github.com/iannuttall/claude-agents
+* https://github.com/cline/prompts
