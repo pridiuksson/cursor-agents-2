@@ -1,20 +1,24 @@
+![QR Code](qr_agents2_gh.png)
+
 # Cursor Agents
 
-![QR Code](https://example.com/qrcode.png)
+Cursor Agents is a project built for QA.tech, featuring the following agents:
+- Monorepo Expert
+- Documentarian
+- Changelog Agents
 
-## Easy-to-Copy Commands for Using Agent Rule Generation
+## References
+- [File A: Agent Rule Generation Prompt](agent-rule-generation-prompt.md)
+- [Monorepo Agent Presentation](monorepo-agent-presentation.md)
+- [Documentarian Presentation](documentarian-presentation.md)
+- [Webflow Presentation](webflow-presentation.md)
 
-To use the agent rule generation prompt instructions with the presentation files, follow these commands:
+## Usage Instructions
+To create plans based on the presentation files, you can use the following command structure:
 
 ```bash
-# Command to initialize the agent
-initialize_agent --config path/to/config.yaml
+# Example command structure
 
-# Command to run the presentation generation
-run_presentation --input path/to/input_file --output path/to/output_file
-
-# Command to stop the agent
-stop_agent --id agent_id
+# Command to generate plans
+./agent-rule-generation-prompt.md > output_plan.txt
 ```
-
-Make sure to replace placeholder paths with your actual file paths!
