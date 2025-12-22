@@ -11,6 +11,9 @@ Talk to me if you're interested in agentic AI adoption and Quality Assurance str
 - Twitter: <https://x.com/pridiuksson>  
 
 # Cursor Agents 
+### Recording of this talk:
+[![Presentation recording](https://img.youtube.com/vi/B8pKW32kl-Y/0.jpg)](https://www.youtube.com/watch?v=B8pKW32kl-Y)
+
 
 ### [Monorepo Agent](monorepo-agent-presentation.md)
 
